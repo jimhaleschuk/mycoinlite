@@ -1,0 +1,2 @@
+# mycoinlite
+litecoin
